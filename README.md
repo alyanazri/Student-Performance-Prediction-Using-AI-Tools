@@ -1,4 +1,4 @@
-# Student-Performance-Prediction-Using-AI-Tools
+# Student Performance Prediction Using AI Tools
 The Student Performance Prediction System is an AI-driven project developed as part of our EECE 4316 Artificial Intelligence coursework. This system leverages supervised learning techniques to predict students' academic performance and provide actionable insights for early intervention.
 
 🚀 Project Overview
